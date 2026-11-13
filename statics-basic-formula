@@ -1,0 +1,7 @@
+Final formulas — Tumhare shortcut method ke mutabiq
+Measure	Formula
+Variance	\(\frac{\sum fX^2}{N}-\left(\frac{\sum fX}{N}\right)^2\)
+SD	\(\sqrt{V}\)
+CV	\(\frac{SD}{AM}\times100\)
+CSD	\(\frac{SD}{AM}\)
+QD	\(\frac{Q_3-Q_1}{2}\)
